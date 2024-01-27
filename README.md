@@ -1,7 +1,7 @@
 # Getting Started
 
 * Clone the project
-* Get to the directory using ```cd flight_task```
+* Get to the directory using ```cd wasserstoff```
 * Install dependecies usin ```npm i```
 * Start the server usin ```npm start```
 
